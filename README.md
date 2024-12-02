@@ -1,8 +1,7 @@
 # Prime-Numbers-ref-and-out-parameters
 # Prime  Numbers and  Return Function With Ref  and  Out
 
-namespace TASK_28_12
-{
+
     internal class Program
     {
         static void Main(string[] args)
@@ -101,4 +100,4 @@ namespace TASK_28_12
         }
 
     }
-}
+
